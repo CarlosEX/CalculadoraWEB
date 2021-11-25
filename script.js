@@ -128,7 +128,6 @@ const mapaTeclado = {
   '+'           : 'operadorAdicionar',
   '='           : 'igual',
   'Enter'       : 'igual',
-  'enter'       : 'igual',
   'Backspace'   : 'backspace',
   'c'           : 'limparDisplay',
   'Escape'      : 'limparCalculo',

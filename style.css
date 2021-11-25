@@ -33,7 +33,8 @@ p{
     margin-bottom: 20px;
     padding: 10px;
     background-color: #999C1B;
-    color: white;
+    color: black;
+    font-weight: bolder;
     font: normal 4rem serif;
     overflow: hidden;
     border-radius: 5px;

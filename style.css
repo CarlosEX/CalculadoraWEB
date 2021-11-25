@@ -39,7 +39,7 @@ body{
 }
 
 .calculator button{
-    background-color: black;
+    background-color: #1111;
     color: white;
     padding: 20px;
     border-radius: 5px;
@@ -50,6 +50,6 @@ body{
 }
 
 button:hover{
-    background-color: #AAAB1F;
-    color: black;
+    background-color: black;
+    color: white;
 }

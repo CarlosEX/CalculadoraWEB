@@ -32,11 +32,12 @@ p{
     height: 100px;
     margin-bottom: 20px;
     padding: 10px;
-    background-color: black;
+    background-color: #999C1B;
     color: white;
     font: normal 4rem serif;
     overflow: hidden;
     border-radius: 5px;
+    border: 2px solid #747613;
 }
 
 .calculator-buttons{
@@ -53,7 +54,7 @@ p{
     font-size: 1.5rem;
     outline: none;
     cursor: pointer;
-    border: 2px solid black;
+    border: 2px solid #747613;
 }
 
 button:hover{
